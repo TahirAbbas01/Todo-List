@@ -1,0 +1,43 @@
+.container{
+  background-color: blue;
+  display: inline-block;
+  margin-left: 474px;
+  margin-top: 40px;
+  padding: 5px;
+  width: 400px;
+  text-align: center;
+  font-size: 30px;
+  font-family: serif;
+  height: autos;
+}
+.container input {
+  width: 300px;
+  height: 30px;
+}
+.header{
+  color: white;
+  font-family: sans-serif;
+  font-weight: 400px;
+}
+
+.listData{
+
+
+  color: black;
+  font-size: 20px;
+  background-color: rgb(164, 203, 237);
+  text-align: left;
+  padding-left: 30px;
+  width: 53%;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  border-radius: 10px;
+}
+
+.heading-list{
+  color: rgb(255, 242, 0);
+  
+}
+.btn button{
+  background-color: yellow;
+}
